@@ -1,5 +1,5 @@
 
-# Phuselab
+# Phuselab - Perceptual computing and Human Sensing Lab
 
 
 
