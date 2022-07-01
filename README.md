@@ -6,15 +6,9 @@ Phuselab
 
 
 
-# Vademecum per studenti in tesi presso il *phuselab* 
-
-Il presente sito contiene le tesi sviluppate presso il laboratorio **phuselab**. Per ogni studente viene predisposta una cartella che ha nome  `Nome_Cognome` dello studente e collocata sotto una delle cartelle principali inerenti uno dei topic di studio, per es. `VHR/Nome_Cognome`.
-
-Ai fini dell'impiego del materiale prodotto in progetti di ricerca, nonché della sua diffusione in contesti di carattere scientifico coerenti con la vocazione di questo laboratorio, si invitano gli studenti a salvare nella propria cartella nominale materiale ritenuto di interesse generale (per es. racchiudere in una cartella `src` il codice sorgente e in una cartella `tesi` il documento di tesi finale), facendo uso degli strumenti di seguito illustrati.
-
 ## Accesso ai server via SSH
 
-Per usare i server `pascal.di.unimi.it`, `tesla.di.unimi.it`, `dalab.di.unimi.it` o `volta.di.unimi.it` del laboratorio _phuselab_
+Per usare i server `pascal.di.unimi.it`, `tesla.di.unimi.it`, `dalab.di.unimi.it`, `turing.di.unimi.it` o `volta.di.unimi.it` del laboratorio _phuselab_
 occorre un account con proprio `username` (in genere il cognome).
 L'autenticazione avviene tramite chiave SSH, una gestione delle credenziali di accesso sicuro basata su crittografia a chiave pubblica supportata dal protocollo SSH.
 
