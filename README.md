@@ -33,7 +33,7 @@ Pe utilizzare in remoto (via browser) Python su Jupyter Notebook occorre procede
 
 ## Uso di Jupiter Notebook da remoto
 
-![Jupyter](/utils/images/jupyternotebook.png)
+![Jupyter](jupyternotebook.png)
 
 ### __Step 1__: Run Jupyter Notebook from remote machine
 
